@@ -1,17 +1,14 @@
 # Website
-SiliconHacks website. Written in HTML, CSS, and JavaScript, React.
+SJSU AEPI website. Written in HTML, CSS, and JavaScript.
 
 # Usage
 ### npm install
-### npm test
+### node server.js
 ### Open your browser and go to 127.0.0.1:3000
 
 # Credits
 **Developers:**
-* Minwei Xu
-* Moshe Reinhart
+* Moshe Rienhart
 
 **Designers:**
-* Anderson Pan
-* Jesse Gao
-* Jiarun Chen
+* Moshe Rienhart
