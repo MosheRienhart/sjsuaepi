@@ -1,0 +1,9 @@
+{
+  "name": "sjsuaepi",
+  "version": "0.0.1",
+  "description": "sjsuaepi website. Written in HTML, CSS, Node.js, express and express.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
